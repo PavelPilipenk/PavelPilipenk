@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats-three-mu-36.vercel.app/api?username=PavelPilipenk)](https://github-readme-stats-three-mu-36.vercel.app)
+[![Pavel's GitHub stats](https://github-readme-stats-three-mu-36.vercel.app/api?username=your-username)](https://github.com/anuraghazra/github-readme-stats)
+
