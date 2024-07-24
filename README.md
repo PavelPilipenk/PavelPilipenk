@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Pavel's GitHub stats](https://github-readme-stats-three-mu-36.vercel.app/api?username=PavelPilipenk&count_private=true)
+![Pavel's GitHub stats](https://github-readme-stats-three-mu-36.vercel.app/api?username=PavelPilipenk&count_private=true&include_all_commits=true)
 
