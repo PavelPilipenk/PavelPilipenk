@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Pavel's GitHub stats](https://github-readme-stats-three-mu-36.vercel.app/api?username=PavelPilipenk&count_private=true&include_all_commits=true&show=prs_merged&hide=stars,issues&hide_rank=true)
-
